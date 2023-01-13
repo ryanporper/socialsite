@@ -13,5 +13,8 @@ Full Validation and Auth using JWT
 # Home Page
 ![Home Page](https://i.imgur.com/NLbtVyG.gif)
 
+# Creating a Post
+![Creating a Post](https://i.imgur.com/k8NKMZn.gif)
+
 # Profile Page
 ![Profile Page](https://i.imgur.com/GNg0b6r.png)
