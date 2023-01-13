@@ -3,4 +3,12 @@ A social media website where you can share your adventures or just day to day li
 
 Developed using React.js, Node.js, Mongoose, MongoDB, Redux Toolkit, Material UI
 
-Media coming soon
+# Login Page
+
+# Register Page
+
+# Home Page
+
+# Dark/Light Mode Feature
+
+#Profile Page
