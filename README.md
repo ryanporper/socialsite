@@ -1,5 +1,5 @@
 # Full-Stack React MERN App - Soshow
-A social media website where you can share your adventures or just day to day life.
+A social media website where users can show what they're up to.
 
 Full CRUD functionality. Users can create posts, like posts, add friends, toggle dark/light mode.
 
