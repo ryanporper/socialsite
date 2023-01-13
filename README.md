@@ -1,9 +1,8 @@
 # Full-Stack React MERN App - Soshow
-<p> Full CRUD functionality. Users can create posts, like posts, add friends, toggle dark/light mode.  </p>
 A social media website where you can share your adventures or just day to day life.
 
+Full CRUD functionality. Users can create posts, like posts, add friends, toggle dark/light mode.
 Developed using React.js, Node.js, Mongoose, MongoDB, Redux Toolkit, Material UI
-
 Full Validation and Auth using JWT
 
 # Login Page
