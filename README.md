@@ -13,7 +13,7 @@ Developed using React.js, Node.js, Mongoose, MongoDB, Redux Toolkit, Material UI
 ![Home Page](https://i.imgur.com/qsVacLE.png)
 
 # Dark/Light Mode Feature
-![Dark/Light Mode Feature](https://gyazo.com/9ccb35b9774e4cee241b60ad19d58fbd)
+![Dark/Light Mode Feature](https://i.imgur.com/pyYdO0u.gif)
 
 # Profile Page
 ![Profile Page](https://i.imgur.com/GNg0b6r.png)
