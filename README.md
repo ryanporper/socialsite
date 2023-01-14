@@ -13,7 +13,7 @@ Full Validation and Auth using JWT
 # Register Page
 ![Register Page](https://i.imgur.com/T98uiDl.png)
 
-# Home Page
+# Home Page GIF
 ![Home Page](https://i.imgur.com/FUIM2HY.gif)
 
 # Profile Page
