@@ -4,7 +4,7 @@
 ## Full CRUD functionality. Users can create posts, like posts, add friends, toggle dark/light mode.
 ## Full Login/Registration and Auth using JWT
 
-##Developed using:
+## Developed using:
 **Frontend**
 - React.js
 - Redux Toolkit 
