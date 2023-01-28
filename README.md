@@ -13,7 +13,7 @@
 #
 **Backend**
 - Mongoose
-- Express
+- Express.js
 - Node.js
 - Bcrypt
 - JSON Web Token
