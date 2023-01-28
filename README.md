@@ -9,11 +9,14 @@
 - React.js
 - Redux Toolkit 
 - Material UI
+- Yup
 #
 **Backend**
 - Mongoose
 - Express
 - Node.js
+- Bcrypt
+- JSON Web Token
 
 # Login Page
 ![Login Page](https://i.imgur.com/TZR8pUO.png)
